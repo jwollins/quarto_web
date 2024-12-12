@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://e7343d99-1da2-448e-95b4-96567fa02ae2.netlify.app/contact.html</loc>
-    <lastmod>2024-12-12T15:46:44.002Z</lastmod>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/contact.html</loc>
+    <lastmod>2024-12-12T17:18:07.322Z</lastmod>
   </url>
   <url>
-    <loc>https://e7343d99-1da2-448e-95b4-96567fa02ae2.netlify.app/index.html</loc>
-    <lastmod>2024-12-12T15:46:45.644Z</lastmod>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/articles/base_uk.html</loc>
+    <lastmod>2024-12-12T17:18:09.133Z</lastmod>
   </url>
   <url>
-    <loc>https://e7343d99-1da2-448e-95b4-96567fa02ae2.netlify.app/about.html</loc>
-    <lastmod>2024-12-12T15:46:47.163Z</lastmod>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/articles/WCCA.html</loc>
+    <lastmod>2024-12-12T17:18:10.673Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/index.html</loc>
+    <lastmod>2024-12-12T17:18:12.151Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/about.html</loc>
+    <lastmod>2024-12-12T17:18:13.612Z</lastmod>
+  </url>
+  <url>
+    <loc>https://quartopub.com/sites/jwollins/jcollins_website/articles.html</loc>
+    <lastmod>2024-12-12T17:18:15.055Z</lastmod>
   </url>
 </urlset>

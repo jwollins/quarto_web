@@ -1,0 +1,32 @@
+---
+title: "Articles"
+format:
+  html:
+    theme: cyborg
+    toc: true   # Enables the sidebar
+    toc-location: left
+---
+
+Welcome to my collection of articles! Click the links below to navigate:
+
+## [Report on the World Congress of Conservation Agriculture](/articles/WCCA.qmd)
+<div class="article-item">
+  <div>
+A short article summarising my trip to the World Congress of Conservation Agriculture in South Africa. 
+  </div>
+  <img src="images/wcca_poster.jpg" alt="Article 1">
+</div>
+
+---
+
+## [BASE-UK sponsor the Harper Adams University Conservation Agriculture Systems experiment. ](/articles/base_uk.qmd)
+<div class="article-item">
+  <div>
+Announcment of BASE-UK sponsoring the Harper Adams Systems Research Experiment. 
+  </div>
+  <img src="images/HAU_BASE_image.png" alt="HAU_BASE">
+</div>
+
+
+
+

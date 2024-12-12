@@ -1,9 +1,16 @@
 ---
-title: "jcollins_website"
+title: "Welcome!"
 ---
+
+Welcome to the website of Joe Collins and the Harper Adams Conservation Agriculture Systems Experiment.
+
+I am testing out quarto, so the website is rather sparsly populated currently. I hope to add the latest information on the experiment going forward here, once I have experimented with quarto. 
+
+
+
+![](images/HAU_BASE_image.png)
+
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-![The experimental site](images/DJI_0365.JPG)

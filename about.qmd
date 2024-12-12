@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-This is a test of the Quarto website.
+Joe is a final-year PhD candidate funded by the Midlands Integrative Biosciences Training Partnership (MIBTP) and a Senior Research Associate at the Earth Rover Program. He has an MSc in Sustainable Crop Production from the University of Warwick and a BSc (Hons) in Agriculture with Crop Management from Harper Adams University. His PhD research is titled “A systems-level evaluation of Conservation Agriculture in the UK” which involves multi-disciplinary research on agronomy, soil science, economics, and greenhouse gas emissions. Joe has over ten years of experience working in the agricultural industry in the UK and abroad.
+
+![Joe Collins - Harper Adams University](/images/j_collins_qbs.jpg){width=50%}
+
+![The experimental site](images/DJI_0365.JPG)

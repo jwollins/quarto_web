@@ -7,5 +7,14 @@
   },
   "contact.qmd": {
     "contact.html": "3eebe597"
+  },
+  "articles/WCCA.qmd": {
+    "WCCA.html": "5cfe5c9d"
+  },
+  "articles.qmd": {
+    "articles.html": "91e548a4"
+  },
+  "articles/base_uk.qmd": {
+    "base_uk.html": "06592703"
   }
 }
