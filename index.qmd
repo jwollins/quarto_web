@@ -1,0 +1,9 @@
+---
+title: "jcollins_website"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+![The experimental site](images/DJI_0365.JPG)

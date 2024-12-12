@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e7343d99-1da2-448e-95b4-96567fa02ae2
+      url: 'https://quartopub.com/sites/jwollins/jcollins_website'
