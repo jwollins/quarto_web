@@ -12,11 +12,19 @@ website:
       - about.qmd
       - href: contact.qmd
         text: Contact
+    right:
+      - icon: github
+        href: https://github.com/jwollins
+      - icon: twitter
+        href: https://x.com/soil_joe
+      - icon: linkedin
+        href: https://linkedin.com/in/joe-collins-636205123
   
 
 format:
   html:
     theme: cyborg
+    footer: footer.html
     css: styles.css
     toc: true
 

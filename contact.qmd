@@ -4,3 +4,12 @@ title: "Contact"
 
 Joe Collins 
 Harper Adams Univeristy & Earth Rover Program
+
+
+
+
+## Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwollins)
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/soil_joe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-collins-636205123)

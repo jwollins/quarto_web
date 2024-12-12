@@ -1,15 +1,27 @@
 ---
-title: "Welcome!"
+title: "Home"
+format:
+  html:
+    theme: cyborg
+    toc: true   # Enables the sidebar
+    toc-location: left
 ---
 
+## Welcome
+
 Welcome to the website of Joe Collins and the Harper Adams Conservation Agriculture Systems Experiment.
+
+![](images/HAU_BASE_image.png)
+
+
+## What is the website for? 
 
 I am testing out quarto, so the website is rather sparsly populated currently. I hope to add the latest information on the experiment going forward here, once I have experimented with quarto. 
 
 
 
-![](images/HAU_BASE_image.png)
 
+## Website build info
 
 This is a Quarto website.
 
