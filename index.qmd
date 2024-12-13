@@ -2,12 +2,10 @@
 title: "Home"
 format:
   html:
-    theme: cyborg
+    theme: default
     toc: true   # Enables the sidebar
     toc-location: left
 ---
-
-## Welcome
 
 Welcome to the website of Joe Collins and the Harper Adams Conservation Agriculture Systems Experiment.
 
@@ -16,13 +14,21 @@ Welcome to the website of Joe Collins and the Harper Adams Conservation Agricult
 
 ## What is the website for? 
 
-I am testing out quarto, so the website is rather sparsly populated currently. I hope to add the latest information on the experiment going forward here, once I have experimented with quarto. 
+I am testing out quarto, so the website is rather sparsly populated currently. Once I have experimented with quarto and have gotten to grips with it, I hope to add the latest information on the experiment going forward here. 
 
 
 
 
 ## Website build info
 
-This is a Quarto website.
+This is a Quarto website, which I am running using the Quarto VS Code extension. 
+
+My code can be found here:
+
+[![](https://img.shields.io/badge/Repo-quarto_web-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwollins/quarto_web)
+
+Or alternatively, check out my other GitHub projects
+
+[![](https://img.shields.io/badge/GitHub-Profile-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwollins)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

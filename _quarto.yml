@@ -7,8 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: HAU_BASE_CASE.qmd
+        text: Conservation Ag Systems
       - href: articles.qmd
         text: Articles
+      - href: code.qmd
+        text: Code
       - about.qmd
       - href: contact.qmd
         text: Contact
@@ -19,13 +23,17 @@ website:
         href: https://x.com/soil_joe
       - icon: linkedin
         href: https://linkedin.com/in/joe-collins-636205123
-  
+    include-after-body: "footer.html"
+
 
 format:
   html:
-    theme: cyborg
-    footer: footer.html
+    theme:
+      light: flatly
+      dark: darkly
+    include-after-body: footer.html
     css: styles.css
     toc: true
+
 
 

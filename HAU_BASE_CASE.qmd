@@ -1,0 +1,39 @@
+---
+title: "The Harper Adams University and BASE UK Systems Research Experiment"
+format:
+  html:
+    theme: cyborg
+    toc: true   # Enables the sidebar
+    toc-location: left
+---
+
+## 01 Introduction
+
+An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54'55.8"N 2 36'24.0"W) for the previous 3 years, consisting of a systems-level comparison of CA and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics.  Each experimental treatment is managed using these principles:
+
+Conservation 
+
+1.	Minimal soil disturbance (direct drilling of all crops) with no cultivation.
+2.	Maintenance of soil cover by chopping straw residue back onto the soil surface 
+3.	A diversified crop rotation with inclusion of cover crops and companion crops.
+
+Conventional 
+
+1.	Tillage used when deemed necessary.
+2.	Removal of straw residue when financially beneficial.
+3.	No use of cover crops.
+
+![](images/salop.uk.map.png){width=50%}
+
+### Key points
+
+1.	A systematic 24 m multi-strip blocked design was chosen for this experimental design and is preferable for potential other sites, as this was thought to reduce disruption to the farmer’s normal cropping operations. This helps to maximise the farmer’s total productivity of the experiment as it is managed similarly to commercial field management. This allows for accurate analysis of the economic data collected from the experiment. Throughout the duration of this experiment, the experimental site has made a profit for the host farmers every year in both the conventional and CA systems. 
+
+2.	Each treatment is managed by professional agronomists. They make independent decisions based on regular field walks as normal commercial practice. Each agronomist is urged to make each system as productive and profitable as possible. 
+
+3.	All the field operations are performed by the host farmer or local contractors.
+
+
+![](images/plot.number.image.png){width=50%}
+
+## 02 

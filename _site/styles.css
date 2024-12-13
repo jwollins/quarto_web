@@ -11,4 +11,28 @@
     margin-left: 15px;
     width: 150px;
   }
+
+  /* Reduce the base font size */
+body {
+  font-size: 14px; /* Adjust the size to your preference (default is typically 16px) */
+  line-height: 1.5; /* Ensure readability with proper line height */
+}
+
+/* Optional: Adjust specific elements */
+h1 {
+  font-size: 1.8em; /* Reduce size of main headings */
+}
+
+h2 {
+  font-size: 1.5em; /* Reduce size of subheadings */
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+p {
+  font-size: 0.9em; /* Slightly smaller paragraph text */
+}
+
   

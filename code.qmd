@@ -1,0 +1,19 @@
+---
+title: "Section for agriculural science codes"
+format:
+  html:
+    theme: cyborg
+    toc: true   # Enables the sidebar
+    toc-location: left
+---
+
+## Check Out My GitHub Projects
+
+[![](https://img.shields.io/badge/GitHub-Profile-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jwollins)
+
+
+## My GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jwollins&show_icons=true&theme=radical)
+
+

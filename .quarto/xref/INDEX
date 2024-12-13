@@ -16,5 +16,11 @@
   },
   "articles/base_uk.qmd": {
     "base_uk.html": "06592703"
+  },
+  "HAU_BASE_CASE.qmd": {
+    "HAU_BASE_CASE.html": "0eff1bda"
+  },
+  "code.qmd": {
+    "code.html": "1d9cffed"
   }
 }

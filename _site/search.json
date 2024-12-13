@@ -14,6 +14,34 @@
     "text": "Connect with Me"
   },
   {
+    "objectID": "contact.html#follow-me-on-x",
+    "href": "contact.html#follow-me-on-x",
+    "title": "Contact",
+    "section": "Follow Me on X",
+    "text": "Follow Me on X\nTweets by soil_joe"
+  },
+  {
+    "objectID": "HAU_BASE_CASE.html",
+    "href": "HAU_BASE_CASE.html",
+    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
+    "section": "",
+    "text": "An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54’55.8”N 2 36’24.0”W) for the previous 3 years, consisting of a systems-level comparison of CA and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics. Each experimental treatment is managed using these principles:\nConservation\n\nMinimal soil disturbance (direct drilling of all crops) with no cultivation.\nMaintenance of soil cover by chopping straw residue back onto the soil surface\nA diversified crop rotation with inclusion of cover crops and companion crops.\n\nConventional\n\nTillage used when deemed necessary.\nRemoval of straw residue when financially beneficial.\nNo use of cover crops.\n\n\n\n\n\nA systematic 24 m multi-strip blocked design was chosen for this experimental design and is preferable for potential other sites, as this was thought to reduce disruption to the farmer’s normal cropping operations. This helps to maximise the farmer’s total productivity of the experiment as it is managed similarly to commercial field management. This allows for accurate analysis of the economic data collected from the experiment. Throughout the duration of this experiment, the experimental site has made a profit for the host farmers every year in both the conventional and CA systems.\nEach treatment is managed by professional agronomists. They make independent decisions based on regular field walks as normal commercial practice. Each agronomist is urged to make each system as productive and profitable as possible.\nAll the field operations are performed by the host farmer or local contractors."
+  },
+  {
+    "objectID": "HAU_BASE_CASE.html#section",
+    "href": "HAU_BASE_CASE.html#section",
+    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
+    "section": "02",
+    "text": "02"
+  },
+  {
+    "objectID": "code.html#my-github-activity",
+    "href": "code.html#my-github-activity",
+    "title": "Section for agriculural science codes",
+    "section": "My GitHub Activity",
+    "text": "My GitHub Activity\n\n\n\nGitHub Stats"
+  },
+  {
     "objectID": "articles/base_uk.html",
     "href": "articles/base_uk.html",
     "title": "BASE-UK sponsor the Harper Adams University Conservation Agriculture Systems experiment.",
@@ -53,14 +81,14 @@
     "href": "index.html#what-is-the-website-for",
     "title": "Home",
     "section": "What is the website for?",
-    "text": "What is the website for?\nI am testing out quarto, so the website is rather sparsly populated currently. I hope to add the latest information on the experiment going forward here, once I have experimented with quarto."
+    "text": "What is the website for?\nI am testing out quarto, so the website is rather sparsly populated currently. Once I have experimented with quarto and have gotten to grips with it, I hope to add the latest information on the experiment going forward here."
   },
   {
     "objectID": "index.html#website-build-info",
     "href": "index.html#website-build-info",
     "title": "Home",
     "section": "Website build info",
-    "text": "Website build info\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Website build info\nThis is a Quarto website, which I am running using the Quarto VS Code extension.\nMy code can be found here:\n\n\n\n\n\nOr alternatively, check out my other GitHub projects\n\n\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
