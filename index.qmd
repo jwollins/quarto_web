@@ -3,6 +3,7 @@ title: "Home"
 format:
   html:
     theme: default
+    page-layout: full
     toc: true   # Enables the sidebar
     toc-location: left
 ---
