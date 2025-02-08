@@ -22,5 +22,29 @@
   },
   "code.qmd": {
     "code.html": "1d9cffed"
+  },
+  "Home.qmd": {
+    "Home.html": "10d8f9e5"
+  },
+  "01_conservation_agriculture.qmd": {
+    "01_conservation_agriculture.html": "111172f3"
+  },
+  "04_code.qmd": {
+    "04_code.html": "acfa1f7c"
+  },
+  "05_about.qmd": {
+    "05_about.html": "4643cb7a"
+  },
+  "02_CA_systems_research.qmd": {
+    "02_CA_systems_research.html": "45ccd9fc"
+  },
+  "00_Home.qmd": {
+    "00_Home.html": "8f843e61"
+  },
+  "03_articles.qmd": {
+    "03_articles.html": "b493483a"
+  },
+  "06_contact.qmd": {
+    "06_contact.html": "99f4e3d4"
   }
 }

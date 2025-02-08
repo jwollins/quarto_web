@@ -3,18 +3,22 @@ project:
 
 website:
   title: "Joe Collins"
+  site-url: https://jcollinsagriculture.co.uk/
   navbar:
     left:
-      - href: index.qmd
+      - href: 00_Home.qmd
         text: Home
-      - href: HAU_BASE_CASE.qmd
-        text: Conservation Ag Systems
-      - href: articles.qmd
+      - href: 01_conservation_agriculture.qmd
+        text: Conservation Agriculture
+      - href: 02_CA_systems_research.qmd
+        text: CA Systems Research
+      - href: 03_articles.qmd
         text: Articles
-      - href: code.qmd
+      - href: 04_code.qmd
         text: Code
-      - about.qmd
-      - href: contact.qmd
+      - href: 05_about.qmd
+        text: About
+      - href: 06_contact.qmd
         text: Contact
     right:
       - icon: github
@@ -35,5 +39,7 @@ format:
     css: styles.css
     toc: true
 
+resources:
+  - CNAME
 
 

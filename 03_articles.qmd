@@ -3,6 +3,7 @@ title: "Articles"
 format:
   html:
     theme: cyborg
+    page-layout: full
     toc: true   # Enables the sidebar
     toc-location: left
 ---

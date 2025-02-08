@@ -17,6 +17,25 @@ More information on the Harper Adams and BASE-UK Conservation Agriculture System
 ![](images/HAU_BASE_image.png)
 
 
+## Project information
+
+This project was started as during the PhD of Joe Collins at Harper Adams Univerity and has kindly been sponsored by BASE-UK to continue. Our key funders thus far are:
+
+:::{.grid}
+::: {.g-col-4 .d-flex .align-items-center}
+![BBSRC](/images/logos/BBSRC_UKRI_logo-1.png)
+:::
+::: {.g-col-4 .d-flex .align-items-center}
+![MIBTP](/images/logos/mibpt_logo_20kb.png)
+:::
+::: {.g-col-4 .d-flex .align-items-center}
+![BASE-UK](/images/logos/BASE_UK.png)
+:::
+:::
+
+
+
+
 
 
 ## What is the website for? 

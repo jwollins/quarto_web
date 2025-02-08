@@ -3,13 +3,14 @@ title: "The Harper Adams University and BASE UK Systems Research Experiment"
 format:
   html:
     theme: cyborg
+    page-layout: full
     toc: true   # Enables the sidebar
     toc-location: left
 ---
 
 ## 01 Introduction
 
-An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54'55.8"N 2 36'24.0"W) for the previous 3 years, consisting of a systems-level comparison of CA and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics.  Each experimental treatment is managed using these principles:
+An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54'55.8"N 2 36'24.0"W) since 2022, consisting of a systems-level comparison of Conservation Agriculture and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics.  Each experimental treatment is managed using these principles:
 
 Conservation 
 
@@ -23,7 +24,7 @@ Conventional
 2.	Removal of straw residue when financially beneficial.
 3.	No use of cover crops.
 
-![](images/salop.uk.map.png){width=50%}
+![](images/salop.uk.map.png){width=80%}
 
 ### Key points
 
@@ -34,6 +35,8 @@ Conventional
 3.	All the field operations are performed by the host farmer or local contractors.
 
 
-![](images/plot.number.image.png){width=50%}
+![](images/plot.number.image.png){width=80%}
+
+![The experimental site](images/DJI_0365.JPG){width=50%}
 
 ## 02 

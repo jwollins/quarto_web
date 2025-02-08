@@ -1,45 +1,24 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "01_conservation_agriculture.html",
+    "href": "01_conservation_agriculture.html",
+    "title": "Conservation Agriculture",
     "section": "",
-    "text": "Joe Collins Harper Adams Univeristy & Earth Rover Program"
+    "text": "What is conservation ag?"
   },
   {
-    "objectID": "contact.html#connect-with-me",
-    "href": "contact.html#connect-with-me",
-    "title": "Contact",
-    "section": "Connect with Me",
-    "text": "Connect with Me"
-  },
-  {
-    "objectID": "contact.html#follow-me-on-x",
-    "href": "contact.html#follow-me-on-x",
-    "title": "Contact",
-    "section": "Follow Me on X",
-    "text": "Follow Me on X\nTweets by soil_joe"
-  },
-  {
-    "objectID": "HAU_BASE_CASE.html",
-    "href": "HAU_BASE_CASE.html",
-    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
-    "section": "",
-    "text": "An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54’55.8”N 2 36’24.0”W) for the previous 3 years, consisting of a systems-level comparison of CA and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics. Each experimental treatment is managed using these principles:\nConservation\n\nMinimal soil disturbance (direct drilling of all crops) with no cultivation.\nMaintenance of soil cover by chopping straw residue back onto the soil surface\nA diversified crop rotation with inclusion of cover crops and companion crops.\n\nConventional\n\nTillage used when deemed necessary.\nRemoval of straw residue when financially beneficial.\nNo use of cover crops.\n\n\n\n\n\nA systematic 24 m multi-strip blocked design was chosen for this experimental design and is preferable for potential other sites, as this was thought to reduce disruption to the farmer’s normal cropping operations. This helps to maximise the farmer’s total productivity of the experiment as it is managed similarly to commercial field management. This allows for accurate analysis of the economic data collected from the experiment. Throughout the duration of this experiment, the experimental site has made a profit for the host farmers every year in both the conventional and CA systems.\nEach treatment is managed by professional agronomists. They make independent decisions based on regular field walks as normal commercial practice. Each agronomist is urged to make each system as productive and profitable as possible.\nAll the field operations are performed by the host farmer or local contractors."
-  },
-  {
-    "objectID": "HAU_BASE_CASE.html#section",
-    "href": "HAU_BASE_CASE.html#section",
-    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
-    "section": "02",
-    "text": "02"
-  },
-  {
-    "objectID": "code.html#my-github-activity",
-    "href": "code.html#my-github-activity",
+    "objectID": "04_code.html#my-github-activity",
+    "href": "04_code.html#my-github-activity",
     "title": "Section for agriculural science codes",
     "section": "My GitHub Activity",
     "text": "My GitHub Activity\n\n\n\nGitHub Stats"
+  },
+  {
+    "objectID": "05_about.html",
+    "href": "05_about.html",
+    "title": "About",
+    "section": "",
+    "text": "Joe Collins - Harper Adams University"
   },
   {
     "objectID": "articles/base_uk.html",
@@ -70,50 +49,85 @@
     "text": "03 Whats next?\nAs I return to the UK, I am eager to apply the knowledge and connections gained from the Congress to my own research and to share these insights with the BASE-UK community. I’m confident that by working together and learning from global experiences, we can continue to advance Conservation Agriculture practices here at home.\nIn the coming months, I will focus on my PhD’s final stages. Still, I’m excited to keep you updated on my research progress and continue contributing to the conversation on sustainable farming. Please feel free to reach out if you have any questions or if there are particular topics you would like me to explore in future newsletters.\nThank you for your continued support, and I look forward to connecting with many of you at the next BASE-UK conference.\nJoe Collins Senior Research Associate and PhD Candidate Harper Adams University"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "02_CA_systems_research.html",
+    "href": "02_CA_systems_research.html",
+    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
+    "section": "",
+    "text": "An experiment has been running at Whitegates Estate, Whitchurch, UK (52 54’55.8”N 2 36’24.0”W) since 2022, consisting of a systems-level comparison of Conservation Agriculture and conventional crop production systems. Throughout the 9.5 ha experimental site, data is collected on crop, soil, greenhouse gas emissions, and system economics. Each experimental treatment is managed using these principles:\nConservation\n\nMinimal soil disturbance (direct drilling of all crops) with no cultivation.\nMaintenance of soil cover by chopping straw residue back onto the soil surface\nA diversified crop rotation with inclusion of cover crops and companion crops.\n\nConventional\n\nTillage used when deemed necessary.\nRemoval of straw residue when financially beneficial.\nNo use of cover crops.\n\n\n\n\n\nA systematic 24 m multi-strip blocked design was chosen for this experimental design and is preferable for potential other sites, as this was thought to reduce disruption to the farmer’s normal cropping operations. This helps to maximise the farmer’s total productivity of the experiment as it is managed similarly to commercial field management. This allows for accurate analysis of the economic data collected from the experiment. Throughout the duration of this experiment, the experimental site has made a profit for the host farmers every year in both the conventional and CA systems.\nEach treatment is managed by professional agronomists. They make independent decisions based on regular field walks as normal commercial practice. Each agronomist is urged to make each system as productive and profitable as possible.\nAll the field operations are performed by the host farmer or local contractors.\n\n\n\n\n\nThe experimental site"
+  },
+  {
+    "objectID": "02_CA_systems_research.html#section",
+    "href": "02_CA_systems_research.html#section",
+    "title": "The Harper Adams University and BASE UK Systems Research Experiment",
+    "section": "02",
+    "text": "02"
+  },
+  {
+    "objectID": "06_contact.html",
+    "href": "06_contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Joe Collins Harper Adams Univeristy & Earth Rover Program"
+  },
+  {
+    "objectID": "06_contact.html#connect-with-me",
+    "href": "06_contact.html#connect-with-me",
+    "title": "Contact",
+    "section": "Connect with Me",
+    "text": "Connect with Me"
+  },
+  {
+    "objectID": "06_contact.html#follow-me-on-x",
+    "href": "06_contact.html#follow-me-on-x",
+    "title": "Contact",
+    "section": "Follow Me on X",
+    "text": "Follow Me on X\nTweets by soil_joe"
+  },
+  {
+    "objectID": "00_Home.html",
+    "href": "00_Home.html",
     "title": "Home",
     "section": "",
     "text": "Welcome to the website of Joe Collins and the Harper Adams Conservation Agriculture Systems Experiment.\nMore information on the Harper Adams and BASE-UK Conservation Agriculture Systems Experiment can be found on the Conservation Ag Systems tab. The primary aim of the experiment is to aid farmers in the UK who are considering the transition to conservation agricultue, providing data on farm economics, agronomy, soil science, carbon footprinting, and greenhouse gas emissions."
   },
   {
-    "objectID": "index.html#what-is-the-website-for",
-    "href": "index.html#what-is-the-website-for",
+    "objectID": "00_Home.html#project-information",
+    "href": "00_Home.html#project-information",
+    "title": "Home",
+    "section": "Project information",
+    "text": "Project information\nThis project was started as during the PhD of Joe Collins at Harper Adams Univerity and has kindly been sponsored by BASE-UK to continue. Our key funders thus far are:\n\n\n\n\n\nBBSRC\n\n\n\n\n\n\n\nMIBTP\n\n\n\n\n\n\n\nBASE-UK"
+  },
+  {
+    "objectID": "00_Home.html#what-is-the-website-for",
+    "href": "00_Home.html#what-is-the-website-for",
     "title": "Home",
     "section": "What is the website for?",
     "text": "What is the website for?\nI am testing out quarto, so the website is rather sparsly populated currently. Once I have experimented with quarto and have gotten to grips with it, I hope to add the latest information on the experiment going forward here."
   },
   {
-    "objectID": "index.html#website-build-info",
-    "href": "index.html#website-build-info",
+    "objectID": "00_Home.html#website-build-info",
+    "href": "00_Home.html#website-build-info",
     "title": "Home",
     "section": "Website build info",
     "text": "Website build info\nThis is a Quarto website, which I am running using the Quarto VS Code extension.\nMy code can be found here:\n\n\n\n\n\nOr alternatively, check out my other GitHub projects\n\n\n\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Joe Collins - Harper Adams University\n\n\n\n\n\nThe experimental site"
-  },
-  {
-    "objectID": "articles.html",
-    "href": "articles.html",
+    "objectID": "03_articles.html",
+    "href": "03_articles.html",
     "title": "Articles",
     "section": "",
     "text": "Welcome to my collection of articles! Click the links below to navigate:"
   },
   {
-    "objectID": "articles.html#report-on-the-world-congress-of-conservation-agriculture",
-    "href": "articles.html#report-on-the-world-congress-of-conservation-agriculture",
+    "objectID": "03_articles.html#report-on-the-world-congress-of-conservation-agriculture",
+    "href": "03_articles.html#report-on-the-world-congress-of-conservation-agriculture",
     "title": "Articles",
     "section": "Report on the World Congress of Conservation Agriculture",
     "text": "Report on the World Congress of Conservation Agriculture\n\n\nA short article summarising my trip to the World Congress of Conservation Agriculture in South Africa."
   },
   {
-    "objectID": "articles.html#base-uk-sponsor-the-harper-adams-university-conservation-agriculture-systems-experiment.",
-    "href": "articles.html#base-uk-sponsor-the-harper-adams-university-conservation-agriculture-systems-experiment.",
+    "objectID": "03_articles.html#base-uk-sponsor-the-harper-adams-university-conservation-agriculture-systems-experiment.",
+    "href": "03_articles.html#base-uk-sponsor-the-harper-adams-university-conservation-agriculture-systems-experiment.",
     "title": "Articles",
     "section": "BASE-UK sponsor the Harper Adams University Conservation Agriculture Systems experiment.",
     "text": "BASE-UK sponsor the Harper Adams University Conservation Agriculture Systems experiment.\n\n\nAnnouncment of BASE-UK sponsoring the Harper Adams Systems Research Experiment."
