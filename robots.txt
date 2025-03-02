@@ -1,1 +1,1 @@
-Sitemap: https://jcollinsagriculture.co.uk/sitemap.xml
+Sitemap: https://jwollins.quarto.pub/jcollins_website/sitemap.xml
